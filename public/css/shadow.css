@@ -1,0 +1,16 @@
+.shadow-demo {
+    background-color: #26a69a;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+  }
+  
+  .collapsible span.badge {
+    margin-left: auto;
+  }
+  
+  #input-select .input-field label {
+    position: absolute;
+    top: -14px;
+    font-size: 0.8rem;
+  }

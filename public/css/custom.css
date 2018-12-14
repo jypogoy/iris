@@ -1,0 +1,36 @@
+/* Remove highlight on link hover */
+li:not(.active) > a:hover {
+    background-color: transparent;
+}
+
+.brand-logo:hover {
+    background-color: transparent !important;
+}
+
+.logo-text {
+    font-size: 12pt !important;
+}
+
+.log-text-list ul {
+    list-style:none !important;
+}
+
+.log-text-list ul li {
+    color: red !important;
+    display: list-item !important;
+}
+
+.footer-logo-wrapper {
+    height: 10px;
+}
+
+/* .page-topbar {
+    height: 122px;
+} */
+
+/* Extended class to force footer at the bottom */
+ .page-footer { 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+ }
